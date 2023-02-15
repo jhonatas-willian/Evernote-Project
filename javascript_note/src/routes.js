@@ -6,8 +6,6 @@ import RegisterScreen from "./screens/auth/register";
 import NotesScreen from './screens/notes/index';
 import UsersEditScreen from './screens/users/edit';
 
-// teste
-
 function AppRoutes() {
     return (
     <Router>
