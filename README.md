@@ -1,5 +1,12 @@
-# Evernote-Project
+# NotePad-Project
 
-Uma projeto-cópia baseado no bloco de notas Evernote.
+Projeto de um bloco de anotações baseado no Evernote.
 
-A copy-project based on notepad Evernote.
+A Notepad project based on Evernote.
+
+Tools:
+JavaScript / NodeJS
+React
+HTML
+CSS
+Multiple libraries
