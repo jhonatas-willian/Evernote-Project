@@ -69,6 +69,7 @@ function LoginForm() {
                         </Column.Group>
                     </Control>
                 </Field>
+                
                 { error && <Help color="danger">Email or Password invalid</Help> }
             </Column>
             </form>

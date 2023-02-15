@@ -18,7 +18,7 @@ function RegisterForm() {
         } catch (error) {
             setError(true)
         }
-    }
+    };
 
     if(redirectToLogin)
     return <Redirect to={{pathname: "/login"}}/>
